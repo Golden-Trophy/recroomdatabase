@@ -1,1 +1,9 @@
-{}
+{
+    "players": [
+        {
+            "id": "AB90CCC1024DBBDD",
+            "name": "Player",
+            "level": 1
+        }
+    ]
+}
